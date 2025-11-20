@@ -40,12 +40,12 @@ const Navbar: React.FC = () => {
               <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-purple-500 transition-all duration-300 group-hover:w-full"></span>
             </a>
           ))}
-          <a 
+          {/* <a 
             href="#contact"
             className="px-5 py-2 bg-slate-900 text-white text-sm font-medium rounded-full hover:bg-purple-600 transition-colors shadow-lg hover:shadow-purple-500/30"
           >
             Hire Me
-          </a>
+          </a> */}
         </div>
 
         {/* Mobile Menu Button */}
